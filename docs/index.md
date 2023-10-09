@@ -1,11 +1,11 @@
-# Obsidian Notes
+## Obsidian Notes
 
 Publish your public notes with MkDocs
 
-### Test test test. 
+### Test Test Test
 
 Watch the fox run. 
-## Hello World!
+## Hello World
 
 The `index.md` in the `/docs` folder is the homepage you see here.
 
