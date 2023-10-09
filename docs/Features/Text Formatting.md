@@ -1,4 +1,4 @@
-# Text Formatting 
+## Text Formatting
 
 You can have lists like this
 

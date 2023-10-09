@@ -1,10 +1,10 @@
-# LaTeX Math Support
+## LaTeX Math Support
 
 LaTeX math is supported using MathJax.
 
-Inline math looks like $f(x) = x^2$. The input for this is `$f(x) = x^2$`. Use `$...$`.
+Inline math looks like $f(x) = x^2$. The input for this is `$f(x) = x^2$`. Use `$…$`.
 
-For a block of math, use `$$...$$` on separate lines
+For a block of math, use `$$…$$` on separate lines
 
 ```
 $$
